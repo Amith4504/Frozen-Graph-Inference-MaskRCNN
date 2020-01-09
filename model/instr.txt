@@ -1,0 +1,5 @@
+Download h5 model from 
+ https://github.com/matterport/Mask_RCNN/releases/download/v2.1/mask_rcnn_balloon.h5 
+ 
+Freeze the .h5 model using freeze_model.py
+
